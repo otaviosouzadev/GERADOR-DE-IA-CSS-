@@ -12,7 +12,7 @@ async function gerarCodigo() {
         method: "POST",
         headers: {
             "Content-Type": "application/json",
-            "Authorization": "Bearer <sua chave aqui>"/// COLOQUE A SUA CHAVE DE API AQUI, ENTRE AS ASPAS
+            "Authorization": "Bearer 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"
         },
         body: JSON.stringify({
             model: "llama-3.3-70b-versatile",
@@ -38,6 +38,7 @@ async function gerarCodigo() {
 }
 
 botao.addEventListener("click", gerarCodigo)
+
 
 
 
