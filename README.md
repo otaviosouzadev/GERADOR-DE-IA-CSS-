@@ -32,22 +32,8 @@ Este projeto foi desenvolvido como parte da minha jornada de aprendizado em **An
 
 ## 🖥️ Demonstração
 
-### Aplicação
+Uma interface simples e intuitiva para descrever uma ideia, gerar o código e visualizar o resultado em tempo real.
 
-A aplicação permite informar uma descrição e solicitar a geração de uma interface.
-
-```text
-┌──────────────────────────────────────────────┐
-│              🎨 Gerador de IA CSS             │
-├──────────────────────────────────────────────┤
-│                                              │
-│  Descreva o que você deseja criar...         │
-│                                              │
-│             [ ⚡ Gerar Código ]              │
-│                                              │
-├──────────────────────┬───────────────────────┤
-│    💻 Código         │   🖥️ Pré-visualização │
-│                      │                       │
-│    HTML + CSS        │       Resultado       │
-│                      │                       │
-└──────────────────────┴───────────────────────┘
+<p align="center">
+  <img src="gerador-css.png" alt="Gerador de IA CSS" width="850">
+</p>
